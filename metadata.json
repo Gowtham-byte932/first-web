@@ -1,0 +1,6 @@
+{
+  "name": "CraveLoop - Food Delivery & Recharge Wallet",
+  "description": "Smart food delivery that beats Swiggy & Zomato with honest pricing, zero platform fees, guaranteed ₹20 recharge voucher on every order, and mobile recharges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
